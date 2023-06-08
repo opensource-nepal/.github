@@ -1,2 +1,3 @@
 # .github
-Opensource Nepal
+
+Contains the contents of Open Source Nepal organization
