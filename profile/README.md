@@ -8,27 +8,27 @@ OpenSource Nepal is a GitHub organization that aims to foster a vibrant open-sou
 
 ## Organization Projects
 
-### 1. py-nepali
-
-- Repository: [py-nepali](https://github.com/opensource-nepal/py-nepali)
-- Description: This is the first project undertaken by OpenSource Nepal. It is a Python package that contains features designed to be useful for Nepali projects. The main feature of this package is 'nepalidatetime', which is compatible with Python's datetime feature. The features include converting Nepali dates to English, parsing Nepali datetime, handling Nepali timezones, and providing timedelta support for Nepali datetime.
-
-### 2. go-nepali
-
-- Repository: [go-nepali](https://github.com/opensource-nepal/go-nepali)
-- Description: go-nepali is another exciting initiative by OpenSource Nepal. Inspired by py-nepali, this project is written in Golang and includes most of the features implemented in py-nepali.
-
-### 3. django-nepali
-
-- Repository: [django-nepali](https://github.com/opensource-nepal/django-nepali)
-- Description: django-nepali is a Django package created on top of the 'nepali' Python package. It provides support for Nepali date and time, time conversion, and other related functionalities in Django projects.
-
-### 4. node-nepali-datetime
+### 1. node-nepali-datetime
 
 - Repository: [node-nepali-datetime](https://github.com/opensource-nepal/node-nepali-datetime)
 - Description: This is a Node project designed to support native JavaScript-like features for Nepali dates. It includes features such as 'NepaliDate' for Nepali date support and 'dateConverter' for date conversions.
 
 Besides these, there are many other projects that are under development. You can check our repositories on our [GitHub Repository page](https://github.com/orgs/opensource-nepal/repositories). If you have any creative project ideas or want to create a new repository, feel free to contact us.
+
+### 2. py-nepali
+
+- Repository: [py-nepali](https://github.com/opensource-nepal/py-nepali)
+- Description: This is the first project undertaken by OpenSource Nepal. It is a Python package that contains features designed to be useful for Nepali projects. The main feature of this package is 'nepalidatetime', which is compatible with Python's datetime feature. The features include converting Nepali dates to English, parsing Nepali datetime, handling Nepali timezones, and providing timedelta support for Nepali datetime.
+
+### 3. go-nepali
+
+- Repository: [go-nepali](https://github.com/opensource-nepal/go-nepali)
+- Description: go-nepali is another exciting initiative by OpenSource Nepal. Inspired by py-nepali, this project is written in Golang and includes most of the features implemented in py-nepali.
+
+### 4. django-nepali
+
+- Repository: [django-nepali](https://github.com/opensource-nepal/django-nepali)
+- Description: django-nepali is a Django package created on top of the 'nepali' Python package. It provides support for Nepali date and time, time conversion, and other related functionalities in Django projects.
 
 ## Contributing
 
@@ -43,16 +43,9 @@ We welcome contributions from anyone interested in open-source software and our 
 
 Our team will review your contribution and provide feedback. We appreciate all contributions, whether they are bug fixes, new features, or improvements to documentation.
 
-## Contact Us
+## Join Us on Discord
 
-If you have any questions, suggestions, or would like to join our organization, you can reach our maintainers at aj3sshh@gmail.com or sugatbajracharya49@gmail.com.
-
-<!-- - Website: [https://opensource-nepal.org](https://opensource-nepal.org)
-- Email: [contact@opensource-nepal.org](mailto:contact@opensource-nepal.org)
-- Twitter: [@OpenSourceNepal](https://twitter.com/OpenSourceNep
-
-al)
-- Discord: [OpenSource Nepal Community](https://discord.gg/your-discord-invite-link) -->
+Connect with us on Discord to engage in real-time discussions, ask questions, and stay updated on the latest happenings. [Join OpenSource Nepal Discord](https://discord.gg/2jcUACNAve).
 
 ## License
 
