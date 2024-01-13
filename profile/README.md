@@ -13,8 +13,6 @@ OpenSource Nepal is a GitHub organization that aims to foster a vibrant open-sou
 - Repository: [node-nepali-datetime](https://github.com/opensource-nepal/node-nepali-datetime)
 - Description: This is a Node project designed to support native JavaScript-like features for Nepali dates. It includes features such as 'NepaliDate' for Nepali date support and 'dateConverter' for date conversions.
 
-Besides these, there are many other projects that are under development. You can check our repositories on our [GitHub Repository page](https://github.com/orgs/opensource-nepal/repositories). If you have any creative project ideas or want to create a new repository, feel free to contact us.
-
 ### 2. py-nepali
 
 - Repository: [py-nepali](https://github.com/opensource-nepal/py-nepali)
@@ -29,6 +27,8 @@ Besides these, there are many other projects that are under development. You can
 
 - Repository: [django-nepali](https://github.com/opensource-nepal/django-nepali)
 - Description: django-nepali is a Django package created on top of the 'nepali' Python package. It provides support for Nepali date and time, time conversion, and other related functionalities in Django projects.
+
+Besides these, there are many other projects that are under development. You can check our repositories on our [GitHub Repository page](https://github.com/orgs/opensource-nepal/repositories). If you have any creative project ideas or want to create a new repository, feel free to contact us.
 
 ## Contributing
 
