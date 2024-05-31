@@ -6,6 +6,10 @@ Welcome to the OpenSource Nepal organization! We are a passionate community of d
 
 OpenSource Nepal is a GitHub organization that aims to foster a vibrant open-source culture in Nepal. We believe in the power of collaboration, transparency, and sharing knowledge to drive innovation and solve real-world problems. Our community welcomes developers, designers, and enthusiasts of all levels of experience who are interested in open-source software.
 
+## Join Us on Discord
+
+Connect with us on Discord to engage in real-time discussions, ask questions, and stay updated on the latest happenings. [Join OpenSource Nepal Discord](https://discord.gg/2jcUACNAve).
+
 ## Organization Projects
 
 ### 1. commitlint
@@ -42,10 +46,6 @@ We welcome contributions from anyone interested in open-source software and our 
 6. Submit a pull request, detailing the changes you made and why they are valuable.
 
 Our team will review your contribution and provide feedback. We appreciate all contributions, whether they are bug fixes, new features, or improvements to documentation.
-
-## Join Us on Discord
-
-Connect with us on Discord to engage in real-time discussions, ask questions, and stay updated on the latest happenings. [Join OpenSource Nepal Discord](https://discord.gg/2jcUACNAve).
 
 ## License
 
