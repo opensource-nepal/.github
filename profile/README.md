@@ -47,6 +47,10 @@ We welcome contributions from anyone interested in open-source software and our 
 
 Our team will review your contribution and provide feedback. We appreciate all contributions, whether they are bug fixes, new features, or improvements to documentation.
 
+## Organization Policy
+
+Visit [OpenSource Nepal Policy](https://github.com/opensource-nepal/.github/blob/main/policy/README.md).
+
 ## License
 
 The projects within the OpenSource Nepal organization are licensed under the GNU General Public License (GPL). Please review the specific license of each project before using or contributing to them.
