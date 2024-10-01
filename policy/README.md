@@ -6,7 +6,7 @@
 
 - **New Repository Creation**:
   - All new repository ideas must be discussed in the organization's Discord channel.
-  - Any member can create a public repository. Admins must review the repository later and decides whether it should remain or be archived/deleted.
+  - Any member can create a public repository. Admins must review the repository later and decide whether it should remain or be archived/deleted.
   - Creation of empty repositories (without code or README) is not allowed.
   - All repositories must follow a basic structure: `README.md`, `LICENSE`, and `.gitignore` as a minimum.
 - **Discussions**: All members can create discussions in any repository to propose ideas, report issues, or provide feedback.
@@ -17,8 +17,7 @@
 
 - **Minimum number of approvals for merging a PR**:
   - **Contributors ≥ 10**: 2 approvals
-  - **Contributors < 10 but > 1**: 1 approval
-  - **1 Contributor**: No approval needed
+  - **Contributors < 10**: 1 approval
 - **Admin Overrides**: The repository admin can merge PRs with 1 approval if necessary for urgent fixes or progress.
 - **Stale PRs**: PRs without updates for more than 30 days will be marked as stale and closed after an additional 14 days if no activity is resumed.
 
